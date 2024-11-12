@@ -1,0 +1,16 @@
+{
+    "name": "VUI.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:7afac55f71c4b3b43b14f7c15ea4915d"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
